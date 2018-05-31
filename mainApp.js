@@ -6,14 +6,14 @@ let sdk = new window.sfdc.BlockSDK(); //initalize SDK
 
 let mapData = {
     apiKey: '',
-    mapCentre: 'London, UK',
+    mapCentre: 'Montreal, QC',
     mapHeight: 300,
     mapWidth: 600,
     mapZoom: 14,
     mapType: 'roadmap',
     mapMarker: {
         color: '0xff0000',
-        label: 'London, UK'
+        label: 'Montreal, QC'
     }
 };
 
