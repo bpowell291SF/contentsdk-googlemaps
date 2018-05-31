@@ -9,7 +9,7 @@ let mapData = {
     mapCentre: 'Montreal, QC',
     mapHeight: 300,
     mapWidth: 600,
-    mapZoom: 15,
+    mapZoom: 14,
     mapType: 'roadmap',
     mapMarker: {
         color: '0xff0000',
